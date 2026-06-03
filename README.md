@@ -1,2 +1,9 @@
-# homebrew-tap
-Homebrew tap for North Shore Software Labs tools (brew install NorthShoreSoftwareLabs/tap/&lt;tool>)
+# North Shore Software Labs — Homebrew Tap
+
+```
+brew install NorthShoreSoftwareLabs/tap/lidspeculum
+```
+
+## Tools
+
+- [lidspeculum](https://github.com/NorthShoreSoftwareLabs/lidspeculum) — keep your computer awake when the lid is closed (macOS & Linux).
