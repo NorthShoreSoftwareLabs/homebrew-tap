@@ -1,8 +1,8 @@
 class Lidspeculum < Formula
   desc "Keep your computer awake when the lid is closed"
   homepage "https://github.com/NorthShoreSoftwareLabs/lidspeculum"
-  url "https://github.com/NorthShoreSoftwareLabs/lidspeculum/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "808acd9565a6e09dd91118cf81301403e0495f2e498f7d881fe9e23fd22a34c7"
+  url "https://github.com/NorthShoreSoftwareLabs/lidspeculum/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "106024177403676919eb350c147972e8f8ee2faa5b96d2126011e263c3af04f4"
   license "MIT"
   head "https://github.com/NorthShoreSoftwareLabs/lidspeculum.git", branch: "main"
 
